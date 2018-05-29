@@ -1,0 +1,8 @@
+com\service\InventoryServiceImpl.class
+com\pojo\Inventory.class
+com\service\InventoryService.class
+com\dao\InventoryDaoImpl.class
+com\dao\InventoryDao.class
+com\filters\CORSFilter.class
+com\pojo\InventoryResultSet.class
+com\controller\InventoryController.class
